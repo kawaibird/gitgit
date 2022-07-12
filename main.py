@@ -1,3 +1,3 @@
 # sample code
 
-print("blah blah")
+prin("blah blah")
